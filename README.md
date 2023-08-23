@@ -2,12 +2,12 @@
 ## Business Understanding
 Divvy is a bike share company with a fleet of geo-tracked bicycles that are locked into a network of stations throughout Chicago. Divvy offers three different pricing options: day passes, annual memberships, and single-ride passes. Casual riders are customers who purchase single-ride or full-day passes. Member riders are customers who purchase annual memberships.
 
-The primary goal of this case is to investigate ride data to identify differences in the usage of Divvy’s bikes between annual members and casual riders. These insights will then be used to develop marketing strategies aimed at converting casual riders into annual members. The marketing team believes that the company's future growth will be driven by maximizing the number of annual members, who are more profitable than casual riders.
+The primary goal of this case is to investigate ride data to identify differences in the usage of Divvy’s bikes between member riders and casual riders. These insights will then be used to develop marketing strategies aimed at converting casual riders into member riders. The marketing team believes that the company's future growth will be driven by maximizing the number of member riders, who are more profitable than casual riders.
 
 The following are three questions that will guide the future marketing strategy:
-(1) How do annual members and casual riders differ from each other?
+(1) How do member riders and casual riders differ from each other?
 (2) Why would casual riders purchase an annual membership?
-(3) How can Divvy use digital media to encourage casual riders to become annual members?
+(3) How can Divvy use digital media to encourage casual riders to become member riders?
 
 ## Data Understanding
 Source: [Divvy’s Historical Trip History Data 2021-2022](https://divvy-tripdata.s3.amazonaws.com/index.html) 
