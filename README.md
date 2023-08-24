@@ -9,3 +9,5 @@ The following are three questions that will guide the future marketing strategy:
 3. How can Divvy use digital media to encourage casual riders to become member riders?
 
 Dataset: [Divvy’s Historical Trip History Data 2021-2022](https://divvy-tripdata.s3.amazonaws.com/index.html) 
+
+See the interactive dashboard: [https://bit.ly/divvy-bikeshare-dashboard](https://bit.ly/divvy-bikeshare-dashboard)
