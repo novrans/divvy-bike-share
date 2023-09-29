@@ -11,3 +11,7 @@ The following are three questions that will guide the future marketing strategy:
 Dataset: [Divvy’s Historical Trip History Data 2021-2022](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
 See the interactive dashboard: [https://bit.ly/divvy-bikeshare-dashboard](https://bit.ly/divvy-bikeshare-dashboard)
+
+Google Slides: [Divvy Bike-Share Customer Analysis](https://docs.google.com/presentation/d/e/2PACX-1vTUyoP_Ijgq7B0eCuNdspxTiP5-iqQcFtQkuL2qXxr36jLvrx7UlDSDxayEZUeQQ-PpJWU_9X9-K8bG/pub?start=true&loop=false&delayms=5000&pli=1&slide=id.p)
+
+Medium: [Chicago Divvy Bike Share Case Study](https://medium.com/@nuranynovita/chicago-divvy-bike-share-case-study-4907660344fb)
