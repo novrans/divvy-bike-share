@@ -45,7 +45,7 @@ day_of_week, member_casual
 ORDER BY
 day_of_week, member_casual;
 
--- Top 10 longest duration rides
+-- Top 5 longest duration rides
 SELECT
 member_casual AS membership,
 ride_length,
@@ -53,7 +53,7 @@ ride_duration_hours,
 ride_date_duration
 FROM `cyclistic-data-127.bike_trips.main_table`
 ORDER BY ride_length DESC
-LIMIT 10;
+LIMIT 5;
 
 -- Average ride duration by casual and member riders
 SELECT
